@@ -1,6 +1,6 @@
-# recipes
+# nuxtjs-recipe-app
 
-> my awesome recipe book app
+> A simple recipe app created using Vue and applies server-side rendering using Nuxt.
 
 ## Build Setup
 
